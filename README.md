@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/omkarshirsath6" target="blank"><img src="https://img.shields.io/twitter/follow/omkarshirsath6?logo=twitter&style=for-the-badge" alt="omkarshirsath6" /></a> </p>
 
-- 🔭 I’m currently working on **Generator.AI**
+- 🔭 I’m currently working as **Software Developer at Winjit Technology**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Leading ML Techonologies**
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, VueJs, Typescript, Tailwind**
 
